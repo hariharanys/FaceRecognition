@@ -1,0 +1,8 @@
+Flask
+APIFlask
+pyhanko[image-support, opentype]
+flask_cors 
+Werkzeug
+requests
+deepface
+minio
